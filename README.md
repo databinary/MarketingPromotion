@@ -1,7 +1,7 @@
 # MarketingPromotion
 
 ## Introduction
-This project improves marketing promotion
+In this project, machine learning is used to improve the marketing promotion
 
 ## Technologies
 Python 3.8
